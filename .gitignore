@@ -1,0 +1,13 @@
+export/*
+*.swf
+
+# why does hmm install it here what the fuuck why not install it into my main haxelib
+.haxelib
+
+### VS Code
+.vscode/*
+*.code-workspace
+
+# Local history which shouldn't be shared.
+.history
+.ionide
